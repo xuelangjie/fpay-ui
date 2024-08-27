@@ -1,0 +1,13 @@
+@import './base.css';
+
+#app {
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
+  width: 100%;
+  padding: 2rem;
+  font-weight: normal;
+}
+.fp-select-popper {
+  padding: 0 !important;
+  box-sizing: border-box;
+}
